@@ -1,6 +1,6 @@
-# git
+# Git
 ## ダウンロード
-[git](https://git-scm.com/download)
+[Git](https://git-scm.com/download)
 
 ## インストール
 各OSによってインストーラの操作手順が異なります。わからなかったら聞いてください。
