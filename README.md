@@ -66,7 +66,7 @@ $ git commit  # エディタが開いてメッセージを打てます
 $ git branch <ブランチ名>  # ブランチの登録
 $ git checkout <ブランチ名>    # ブランチの切替
 or
-$ git branch -b <ブランチ名>   # 上の二つをまとめてできる
+$ git checkout -b <ブランチ名>   # 上の二つをまとめてできる
 
 $ git branch -d <ブランチ名>   # ブランチの消去
 
