@@ -4,4 +4,4 @@ void sayhi(){
 	printf("hi!!\n");
 }
 
-12
+123
